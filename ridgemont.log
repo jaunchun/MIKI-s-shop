@@ -1,0 +1,17 @@
+[platform] OpenGL: 3.3.0 NVIDIA 610.88
+[font] atlas ready (128x64)
+[texture] 16 procedural layers (128x128) uploaded
+[shader] scene ready
+[shader] depth ready
+[shader] post ready
+[shader] ui ready
+[renderer] ready
+[audio] 48000 Hz stereo synth online
+[level] seed=1106381289 rooms=13 doors=23 props=253 lights=75 pickups=10 open=567
+[level] world mesh: 50900 verts, 25300 tris
+[game] run start seed=0x41F209E9
+[game] ready, level seed=0x41F209E9
+[boot] gl=3.3.0 NVIDIA 610.88
+[level] seed=1085288951 rooms=13 doors=22 props=259 lights=75 pickups=10 open=566
+[level] world mesh: 51540 verts, 25620 tris
+[game] run start seed=0x40B031F7
