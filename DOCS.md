@@ -5,18 +5,18 @@ A low-poly horror game. **C++** draws everything (window, input, OpenGL renderer
 Maps are plain **JSON** files, so you can change the level without touching code and without rebuilding.
 
 ## Contents
-1. [Quick start](#1.%20Quick%20start)
-2. [How the project is organised](#2.%20How%20the%20project%20is%20organised)
-3. [Coordinates and units](#3.%20Coordinates%20and%20units)
-4. [Building the map (JSON)](#4.%20Building%20the%20map%20%28JSON%29)
-5. [Entities (doors, pickups, enemies...)](#5.%20Entities)
-6. [Player and controls](#6.%20Player%20and%20controls)
-7. [Debug and cheats](#7.%20Debug%20and%20cheats)
-8. [Look and feel](#8.%20Look%20and%20feel)
-9. [Changing the C++ engine](#9.%20Changing%20the%20C%2B%2B%20engine)
-10. [Troubleshooting](#10.%20Troubleshooting)
-11. [Working with a friend](#11.%20Working%20with%20a%20friend)
-12. [Ideas for next steps](#12.%20Ideas%20for%20next%20steps)
+1. [Quick start](#1-quick-start)
+2. [How the project is organised](#2-how-the-project-is-organised)
+3. [Coordinates and units](#3-coordinates-and-units)
+4. [Building the map (JSON)](#4-building-the-map-json)
+5. [Entities (doors, pickups, enemies...)](#5-entities)
+6. [Player and controls](#6-player-and-controls)
+7. [Debug and cheats](#7-debug-and-cheats)
+8. [Look and feel](#8-look-and-feel)
+9. [Changing the C++ engine](#9-changing-the-c-engine)
+10. [Troubleshooting](#10-troubleshooting)
+11. [Working with a friend](#11-working-with-a-friend)
+12. [Ideas for next steps](#12-ideas-for-next-steps)
 
 ---
 
