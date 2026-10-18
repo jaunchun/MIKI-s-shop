@@ -8,7 +8,7 @@ Maps are plain **JSON** files, so you can change the level without touching code
 1. [Quick start](#1-quick-start)
 2. [How the project is organised](#2-how-the-project-is-organised)
 3. [Coordinates and units](#3-coordinates-and-units)
-4. [Building the map (JSON)](#4-building-the-map-json)
+4. [Building the map (JSON)](#4.%20Building%20the%20map%20%28JSON%29)
 5. [Entities (doors, pickups, enemies...)](#5-entities)
 6. [Player and controls](#6-player-and-controls)
 7. [Debug and cheats](#7-debug-and-cheats)
